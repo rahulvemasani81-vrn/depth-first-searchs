@@ -55,8 +55,8 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
 
-#program
-
+#program:
+~~~~
 from collections import defaultdict
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -114,7 +114,7 @@ if start in G:
     print(path)
 else:
     print("Starting node not found!")
-
+~~~~
 <hr>
 <h3>Sample Input</h3>
 <hr>
