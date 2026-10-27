@@ -114,7 +114,7 @@ if start in G:
     print(path)
 else:
     print("Starting node not found!")
-~~~
+
 <hr>
 <h3>Sample Input</h3>
 <hr>
@@ -157,4 +157,3 @@ F H <BR>
 # Result :
 
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
-
